@@ -1,0 +1,18 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Your available choices are: \n0. Exit \n1. Dogs \n2. Wolfs \n3. Swans \n4. Camel \nPlease enter your choice: "
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 15,
+      "Text": "Invalid choice. Try again."
+    }
+  ]}

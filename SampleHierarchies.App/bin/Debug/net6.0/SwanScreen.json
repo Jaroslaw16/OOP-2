@@ -1,0 +1,109 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Your available choices are: \n0. Exit \n1. List all swans \n2. Create a new swan \n3. Delete existing swan \n4. Modify existing swan \nPlease enter your choice: "
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Here's a list of swans:"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Swan number: "
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "The list of swans is empty."
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Swan has been added to a list of swans"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the swan you want to delete? "
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Swan has been deleted from a list of swans"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Swan not found."
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Invalid input"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "What is the name of the swan you want to edit? "
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Swan after edit:"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Swan not found."
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "What name of the swan? "
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "What is the swan's age? "
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "What is the swan's color? "
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "What is the swan's wingspan?"
+    },
+    {
+      "BackgroundColor": 6,
+      "ForegroundColor": 0,
+      "Text": "What is the swan's habitat? "
+    }
+  ]
+}

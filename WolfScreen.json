@@ -1,0 +1,109 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Your available choices are: \n0. Exit \n1. List all wolfs \n2. Create a new wolf \n3. Delete existing wolf \n4. Modify existing wolf \nPlease enter your choice: "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Here's a list of wolfs:"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Wolf number: "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "The list of wolfs is empty. \n"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Wolf has been added to a list of wolfs \n"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "What is the name of the wolf you want to delete? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Wolf has been deleted from a list of wolfs"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Wolf not found."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Invalid input"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "What is the name of the wolf you want to edit? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Wolf after edit:"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Wolf not found."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "What name of the wolf? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "What is the wolf's age? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "What is the wolf's fur color?"
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "What is the wolf's weight in kilograms? "
+    },
+    {
+      "BackgroundColor": 11,
+      "ForegroundColor": 8,
+      "Text": "What is the wolf's habitat? "
+    }
+  ]
+}

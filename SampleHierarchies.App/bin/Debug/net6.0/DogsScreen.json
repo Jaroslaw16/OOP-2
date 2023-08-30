@@ -1,0 +1,98 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Your available choices are: \n0. Exit \n1. List all dogs \n2. Create a new dog \n3. Delete existing dog \n4. Modify existing dog \nPlease enter your choice: \n"
+    },
+    {
+      "BackgroundColor": 5,
+      "ForegroundColor": 14,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Here's a list of dogs:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Dog number: "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "The list of dogs is empty."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Dog has been added to a list of dogs"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the name of the dog you want to delete? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Dog has been deleted from a list of dogs"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Dog not found."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Invalid input"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the name of the dog you want to edit? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Dog after edit:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Dog not found."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What name of the dog? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the dog's age? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the dog's breed? "
+    }
+  ]}

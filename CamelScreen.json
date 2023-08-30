@@ -1,0 +1,109 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Your available choices are: \n0. Exit \n1. List all camels \n2. Create a new camel \n3. Delete existing camel \n4. Modify existing camel \nPlease enter your choice: "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Here's a list of camels:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Camel number: "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "The list of camels is empty."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Camel has been added to a list of camels"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Invalid input."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the name of the camel you want to delete? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Camel has been deleted from a list of camels"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Camel not found."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Invalid input"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the name of the camel you want to edit? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Camel after edit:"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Camel not found."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What name of the camel? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the camel's age? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the camel's color? "
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the camel's hump size?"
+    },
+    {
+      "BackgroundColor": 4,
+      "ForegroundColor": 14,
+      "Text": "What is the camel's habitat? "
+    }
+  ]
+}

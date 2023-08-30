@@ -1,0 +1,48 @@
+{
+  "LineEntries": [
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Your available choices are: \n0. Exit \n1. Mammals \n2. Save to file \n3. Read from file \nPlease enter your choice: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Save data to file: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Data saving to was successful."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Data saving was not successful."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Read data from file: "
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Data reading was successful."
+    },
+    {
+      "BackgroundColor": 15,
+      "ForegroundColor": 1,
+      "Text": "Data reading from was not successful."
+    }
+  ]}
